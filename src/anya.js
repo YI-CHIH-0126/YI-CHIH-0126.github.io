@@ -35,11 +35,11 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["Hi~", "Welecome", "How are you?"];
 
 const about = [
-    "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
+    "My name is YI-CHIH. I am 16 years old now!",
+    "I am studing in HCCVS.",
     "",
     "This summer I went to NTNU CSIE Camp to learn how to code.",
     "During the camp, I learned how to: ",
