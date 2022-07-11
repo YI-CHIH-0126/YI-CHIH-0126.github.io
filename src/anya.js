@@ -48,31 +48,37 @@ const about = [
     "  - Design and develop a gomoku gaming agent with Python.",
     "  - Operate Linux system with common commands.",
     "  - Use Git and GitHub to work on projects.",
-    "",
-    'By the way, I am starring in an anime called "SPY x FAMILY". Did you watch it?',
+    ""
 ].join("\n");
 
 const projects = [
     {
         name: "My Portfolio Website",
         description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall02.jpg",
+        image: "images/web_photo.png",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
-        url: "https://github.com/anya-forger/anya-forger.github.io",
+        url: "https://yi-chih-0126.github.io/",
     },
     {
         name: "AI Gomoku Gaming Agent",
         description: "A gomoku gaming agent with Python that I designed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall01.jpg",
+        image: "images/gobang.png",
         skills: ["Python", "Algorithm", "Gomoku"],
-        url: "https://github.com/anya-forger",
+        url: "",
     },
     {
-        name: "SPY x FAMILY",
-        description: "An anime that I starred in.",
-        image: "https://spy-family.net/assets/img/special/special10_1.gif",
-        skills: ["Performings"],
-        url: "https://spy-family.net",
+        name: "Tablecloth beautify",
+        description: "Use Rainmeter to beautify our tablecloth",
+        image: "images/window.PNG",
+        skills: ["Rainmeter"],
+        url: "",
+    },
+    {
+        name: "Linux command and script",
+        description: "Learning how to use Linux's commands and creat a script",
+        image: "",
+        skills: ["Linux commands"],
+        url: "",
     },
 ];
 

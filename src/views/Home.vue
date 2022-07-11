@@ -30,7 +30,7 @@ const width = screen.width;
                 <a
                     v-if="step > 2"
                     class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-                    href="https://www.instagram.com/"
+                    href="https://www.instagram.com/azhi_0126/"
                     target="_blank"
                 >
                     <MdiInstagram class="mr-1 inline-block" />
