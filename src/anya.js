@@ -1,5 +1,5 @@
 const pic = {
-    uniform: "https://spy-family.net/assets/img/common/header_bottomimg_3.png",
+    uniform: "images/me.jpg",
     icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
     casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
@@ -19,13 +19,6 @@ pic.avatars.push(
     "images/group4.jpg",
     "images/group6.jpg",
     "images/group7.jpg",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
 );
 
 const titles = ["Hi~", "Welecome", "How are you?"];

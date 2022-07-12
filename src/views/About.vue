@@ -45,7 +45,7 @@ function update(delay = 0) {
                 v-if="step > 0"
                 @done="step++"
                 class="flex-1 md:mx-4"
-                @click="open('https://spy-family.net/')"
+                @click="open('https://www.facebook.com/ntnucsiecamp')"
             />
         </div>
         <Typing
