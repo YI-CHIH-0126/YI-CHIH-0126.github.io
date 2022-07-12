@@ -76,7 +76,7 @@ const projects = [
     {
         name: "Linux command and script",
         description: "Learning how to use Linux's commands and creat a script",
-        image: "",
+        image: "images/linux.png",
         skills: ["Linux commands"],
         url: "",
     },
