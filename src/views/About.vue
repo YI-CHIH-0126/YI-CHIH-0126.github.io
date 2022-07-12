@@ -73,7 +73,7 @@ function update(delay = 0) {
                     <img
                         v-show="step > 1 + i"
                         :src="pic.avatars[i]"
-                        class="w-full cursor-pointer transition-all hover:scale-125"
+                        class="w-full h-full cursor-pointer transition-all hover:scale-125"
                         @click="open('https://www.facebook.com/ntnucsiecamp#tSpecial')"
                     />
                 </transition>

@@ -6,11 +6,6 @@ const pic = {
     avatars: [],
 };
 
-for (let i = 1; i <= 40; i++) {
-    pic.avatars[i] = `https://spy-family.net/assets/img/special/anya/${i
-        .toString()
-        .padStart(2, "0")}.png`;
-}
 pic.avatars.push(
     "images/group.jpg",
     "images/group1.jpg",
